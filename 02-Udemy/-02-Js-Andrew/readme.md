@@ -6,7 +6,7 @@
 - [Live Demo]()
 ###  Notes app
 - [Project-code](./Projects/Notes-app)
-- [Live Demo]()
+- [Live Demo](http:google.com)
 ### Hangman-Game
 - [Project-code](./Projects/Hangman-Game)
 - [Live Demo]()
