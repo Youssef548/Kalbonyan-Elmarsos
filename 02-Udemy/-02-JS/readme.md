@@ -3,13 +3,13 @@
 ## Projects
 ### Todo app
 - [Project-code](./Projects/Todo-app)
-- [Live Demo]()
+- [Live Demo](https://todo5-app.netlify.app)
 ###  Notes app
 - [Project-code](./Projects/Notes-app)
-- [Live Demo]()
+- [Live Demo](https://notes5-app.netlify.app/)
 ### Hangman-Game
 - [Project-code](./Projects/Hangman-Game)
-- [Live Demo]()
+- [Live Demo](https://hang5-man.netlify.app)
 
 ---
 ## Code
