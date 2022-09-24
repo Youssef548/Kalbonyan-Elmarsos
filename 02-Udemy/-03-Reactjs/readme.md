@@ -14,8 +14,6 @@
 - [Section 4 Project Live Demo](https://expenses-app-v2.netlify.app/)
 - [Section 5 Project Live Demo](https://expenses-app-v3.netlify.app/)
 
-  <br/>
-
 <div align="left">
   <img src="./app-screen/expenses-app.png"
 </div>
