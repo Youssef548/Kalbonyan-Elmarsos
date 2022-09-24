@@ -20,5 +20,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/309b431b7ae9d28de269a8fea00c7568dadf5d38f4df9c10f645d74f40e96845?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4H1xp3l%2FSr2fyyy2SWoa9w%3D%3D)
 ![certificate](./certificate.png)

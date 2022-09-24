@@ -21,5 +21,6 @@
 ---
 
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate](./certificate.png)
+
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/b678ba6f23df264ace9e544d54abb861b6096e7fb7815e76bf68ca5957b0dd19?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCktB6yc2Sw62LGr%2FI7Qmzw%3D%3D)
 ![certificate](./certificate.png)

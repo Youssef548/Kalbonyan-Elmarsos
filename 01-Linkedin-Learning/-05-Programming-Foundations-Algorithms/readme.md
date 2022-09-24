@@ -18,5 +18,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/95d8aa33200cf775c01ab3952fc1e517c51ed3767a5bfb8880ab8980df6f320f?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4H1xp3l%2FSr2fyyy2SWoa9w%3D%3D)
 ![certificate](./certificate.png)

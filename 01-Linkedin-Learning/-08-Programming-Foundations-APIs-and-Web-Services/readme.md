@@ -7,5 +7,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services?resume=false)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/66e0d260a3ff9ce29c4766b924114cfb0ede2270fd3d48af9ef548e02cce279b?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4H1xp3l%2FSr2fyyy2SWoa9w%3D%3D)
 ![certificate](./certificate.png)

@@ -7,5 +7,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/33f877c9de29dba6ff44ca13fad6c29db88490e908194f0c3bad8a6c38db439b?trk=share_certificate)
 ![certificate](./certificate.png)

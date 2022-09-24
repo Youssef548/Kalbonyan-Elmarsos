@@ -22,5 +22,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/a96a4caeb11aded70d54a31bb2a45d73a5c694c8f2eede2227b2f6bdf05cad3b?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4H1xp3l%2FSr2fyyy2SWoa9w%3D%3D)
 ![certificate](./certificate.png)

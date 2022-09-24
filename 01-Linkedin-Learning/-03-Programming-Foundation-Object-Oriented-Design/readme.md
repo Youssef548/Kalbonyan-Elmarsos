@@ -21,5 +21,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/69f88353a6bf13280f50ef85e651df8e020475299066c1131477dcbb4fef8410?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4H1xp3l%2FSr2fyyy2SWoa9w%3D%3D)
 ![certificate](./certificate.png)
