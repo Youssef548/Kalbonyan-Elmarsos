@@ -19,7 +19,7 @@
 - [Project-code](./Projects/Omnifood) <br>
 - [Live Demo](https://youssef548.github.io/ominifood-website/)
 <div align="left">
-    <img src="./app-screens/ominifood.png" />
+    <img src="./app-screens/ominifood.png"    />
 </div>
 
 ---
