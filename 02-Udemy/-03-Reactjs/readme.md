@@ -102,9 +102,8 @@
 - [Project Code](./Projects/order-food-app/S17-project/)
 - [Final Project Live Live Demo](https://order-app-v2.netlify.app/)
 <div align="left">
-  <img src="">
+  <img src="./app-screen/order-food-v2.png">
   </div>
-  (./app-screen/order-food-v2.png)
 
 ### Redux Counter(S18)
 
