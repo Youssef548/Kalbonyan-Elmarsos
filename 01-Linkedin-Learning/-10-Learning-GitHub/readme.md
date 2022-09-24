@@ -7,4 +7,4 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate](./certificate.png)
+<br>[Preview Certificate](https://media-exp1.licdn.com/dms/image/C561FAQHYLy1g1CbwIA/feedshare-document-cover-images_1280/0/1655649854338?e=1664636400&v=beta&t=NgCnHZ02BPUU58Vy4RydKkzTCVppqIelK4mq_bCCiZ8)
