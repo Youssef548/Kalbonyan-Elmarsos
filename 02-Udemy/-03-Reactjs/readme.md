@@ -16,7 +16,11 @@
 
   <br/>
 
-  ![Screenshot](./app-screen/expenses-app.png)
+<div align="center">
+  <img src="./app-screen/expenses-app.png
+</div>
+
+<!-- ![Screenshot](./app-screen/expenses-app.png) -->
 
 ### goals app (S6-S7)
 
