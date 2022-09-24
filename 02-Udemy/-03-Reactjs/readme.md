@@ -16,8 +16,8 @@
 
   <br/>
 
-<div align="center">
-  <img src="./app-screen/expenses-app.png
+<div align="left">
+  <img src="./app-screen/expenses-app.png"
 </div>
 
 <!-- ![Screenshot](./app-screen/expenses-app.png) -->
