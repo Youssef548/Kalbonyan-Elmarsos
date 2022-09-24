@@ -18,4 +18,4 @@
 ---
 [Course-Link](https://www.udemy.com/course/modern-javascript/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-f75232d1-b68e-4537-8f57-239c8c9bf8f3.jpg?v=1658142462000)
