@@ -1,0 +1,10 @@
+{
+  "icons": [
+    {
+      "src": "img/favicon-iphone.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    { "src": "img/favicon-mobile.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
