@@ -24,7 +24,7 @@
 
 - [Section 6 Project Live Demo](https://goals-app-v1.netlify.app)
 - [Section 7 Project Live Demo](https://goals-app-v2.netlify.app)
-  (./app-screen/goals-app.png)
+- [](./app-screen/goals-app.png)
 
 ### Users app Project (S8 - S9)
 
