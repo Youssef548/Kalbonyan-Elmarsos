@@ -23,3 +23,4 @@
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
 <br>[Preview Certificate](./certificate.png)
+![certificate](./certificate.png)

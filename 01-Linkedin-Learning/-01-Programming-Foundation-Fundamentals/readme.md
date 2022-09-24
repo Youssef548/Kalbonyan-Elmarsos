@@ -22,3 +22,4 @@
 
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
 <br>[Preview Certificate](./certificate.png)
+![certificate](./certificate.png)

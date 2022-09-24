@@ -8,3 +8,4 @@
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services?resume=false)
 <br>[Preview Certificate](./certificate.png)
+![certificate](./certificate.png)

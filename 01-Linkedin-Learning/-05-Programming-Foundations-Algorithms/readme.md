@@ -19,3 +19,4 @@
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
 <br>[Preview Certificate](./certificate.png)
+![certificate](./certificate.png)
