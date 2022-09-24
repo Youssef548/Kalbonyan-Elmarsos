@@ -16,7 +16,7 @@
 
   <br/>
 
-  ![alt text](./app-screen/expenses-app.png)
+  ![Screenshot](./app-screen/expenses-app.png)
 
 ### goals app (S6-S7)
 
