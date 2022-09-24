@@ -13,7 +13,9 @@
 - [Section 3 Project Live Demo](https://expenses-app-v1.netlify.app/)
 - [Section 4 Project Live Demo](https://expenses-app-v2.netlify.app/)
 - [Section 5 Project Live Demo](https://expenses-app-v3.netlify.app/)
+
   <br/>
+
   ![alt text](./app-screen/expenses-app.png)
 
 ### goals app (S6-S7)
