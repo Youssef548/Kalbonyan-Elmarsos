@@ -1,0 +1,73 @@
+.projects-data .project-box {
+  background-color: #31313f;
+  width: 350px;
+}
+
+.project-box .project-box-text {
+  padding: 0 2rem;
+}
+
+.project-box .project-name {
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #7562e0;
+  text-transform: uppercase;
+  font-size: 2.2rem;
+}
+
+.project-box .project-info {
+  margin-top: 5px;
+  color: white;
+  font-size: 1.8rem;
+  line-height: 1.8;
+}
+
+.link-btns {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 1rem 2.5rem;
+  /* background-color: #7562e0; */
+  color: white;
+  border-radius: 5px;
+  /* border: solid 1px #7562e0; */
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+
+.view-demo {
+  background-color: #7562e0;
+  color: white;
+  border-radius: 5px;
+  border: solid 2px #7562e0;
+  transition: 0.3s ease all;
+}
+
+.view-demo:hover {
+  background-color: #31313f;
+}
+
+.git-repo {
+  background-color: #31313f;
+  color: white;
+  border: solid 2px #7562e0;
+  transition: 0.3s ease all;
+}
+
+.git-repo:hover {
+  background-color: #7562e0;
+}
+
+a.btn.view-demo,
+a.btn.git-repo {
+  color: white;
+  text-decoration: none;
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  cursor: pointer;
+  font-weight: normal;
+}

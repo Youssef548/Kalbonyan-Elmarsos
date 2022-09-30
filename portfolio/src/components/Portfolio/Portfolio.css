@@ -1,0 +1,12 @@
+.portfolio {
+  padding: 10rem 0;
+}
+
+.portfolio .portfolio-text {
+  text-align: center;
+}
+.portfolio-title {
+  color: #7562e0;
+  font-size: 4rem;
+  letter-spacing: 3px;
+}

@@ -1,0 +1,150 @@
+.contact-section {
+  padding: 10rem 0;
+}
+.contact {
+  display: flex;
+  gap: 5rem;
+}
+
+.connect-with-me {
+  flex: 1;
+}
+.connect-text {
+}
+
+.connect-text h3 {
+  color: #7562e0;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.connect-text p {
+  color: white;
+  font-size: 1.8rem;
+}
+
+.social-icon-links {
+  list-style: none;
+  display: flex;
+  gap: 4rem;
+  padding: 0;
+}
+
+.social-icon-links li {
+  cursor: pointer;
+}
+.social-icon-links li a {
+  color: #7562e0;
+  font-size: 3rem;
+}
+
+.contact-form {
+}
+
+.contact .form-title {
+  font-size: 2.4rem;
+  color: white;
+  font-weight: normal;
+}
+
+.success-messaage {
+  font-size: 2rem;
+  text-align: center;
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.form input {
+  padding: 2rem;
+  border-radius: 7px;
+  background-color: #32323f;
+  border: 2px solid #32323f;
+  color: white;
+  font-size: 2rem;
+}
+
+.form input:focus,
+.form textarea:focus {
+  outline: none;
+}
+
+.form input::placeholder,
+.form textarea::placeholder {
+  transition: opacity 0.3s ease;
+  font-size: 1.8rem;
+}
+
+.form input:focus::placeholder,
+.form textarea:focus::placeholder {
+  opacity: 0;
+}
+
+.form textarea {
+  height: 6rem;
+  padding: 2rem;
+  border-radius: 6px;
+  background-color: #32323f;
+  border: 2px solid #32323f;
+  color: white;
+  font-size: 2rem;
+}
+.success-message-contact {
+  color: #fff;
+}
+
+.form .btn-form {
+  width: 150px;
+  height: 40px;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: capitalize;
+  transition: 0.3s ease all;
+  background-color: #7562e0;
+  border: 2px solid #7562e0;
+}
+
+.form .btn-form:hover {
+  background-color: #32323f;
+}
+
+.contact-form {
+  flex: 1;
+}
+
+@media (max-width: 1200px) {
+  .form input {
+    width: 350px;
+  }
+  .form textarea {
+    width: 350px;
+  }
+}
+
+@media (max-width: 992px) {
+  .form input {
+    width: 300px;
+  }
+  .form textarea {
+    width: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact {
+    gap: 0rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .social-icon-links {
+    justify-content: center;
+  }
+}

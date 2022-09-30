@@ -1,0 +1,117 @@
+/* .hero-section {
+} */
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: calc(100vh - 10rem);
+  margin-top: 10rem;
+}
+
+.welcome-title {
+  font-size: 2rem;
+  color: #f5f5f5;
+  margin-bottom: 1rem;
+}
+
+.name-title {
+  margin-top: 1rem;
+  font-size: 5rem;
+  color: #f5f5f5;
+  margin-bottom: 0;
+}
+
+.info {
+  margin-top: 0;
+  color: white;
+}
+
+.btns-container {
+  display: flex;
+  gap: 4rem;
+}
+
+.btns-container button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1.2rem;
+  background-color: #1a1a29;
+  transition: 0.4s ease all;
+}
+
+.btns-container button a {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 3rem;
+  color: white;
+  font-weight: 500;
+  font-size: 2rem;
+  gap: 1rem;
+  cursor: pointer;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+}
+
+.btns-container .aboutme-btn {
+  background-color: #7562e0;
+  border: 0.3rem solid #7562e0;
+}
+
+.aboutme-btn:hover {
+  background-color: #1a1a29;
+}
+
+.btns-container .projects-btn:hover {
+  background-color: #7562e0;
+  border: 0.3rem solid #7562e0;
+}
+
+.img-hero {
+  position: relative;
+  max-height: 443px;
+}
+
+/* .img-hero::before {
+  content: "";
+  position: absolute;
+  background: #7552e0;
+  width: 500px;
+  height: 500px;
+  left: 50%;
+  top: 74%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  border-radius: 50%;
+} */
+
+.hero-section .break {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: #181824;
+  height: 154px;
+}
+
+@media (max-width: 1200px) {
+  .hero {
+    justify-content: center;
+    height: calc(90vh - 10rem);
+    margin-top: 10vh;
+  }
+  .img-hero {
+    display: none;
+  }
+  .welcome-title {
+    font-size: 5rem;
+  }
+
+  .name-title {
+    font-size: 8rem;
+    margin-bottom: 3rem;
+  }
+}
