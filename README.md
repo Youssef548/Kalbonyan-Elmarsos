@@ -42,7 +42,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
   - [x] ` in progress` `2h 11m` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
   - [x] ` in progress` `37h 30m` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
-    <br />
+  <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-59h25m-blue">
 
@@ -105,5 +105,6 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
 
-[portfolio] (https://youssef-portfolio.vercel.app/)
-[cv] (https://spiral-antique-cbb.notion.site/Youssef-Ahmed-2c65b83c13e140538b746f7fb5a7c5aa)
+## [portfolio] (https://youssef-portfolio.vercel.app/)
+
+## [cv] (https://spiral-antique-cbb.notion.site/Youssef-Ahmed-2c65b83c13e140538b746f7fb5a7c5aa)
