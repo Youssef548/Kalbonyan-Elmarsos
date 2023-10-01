@@ -111,6 +111,5 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 #### [Portfolio Code](./portfolio)
 
-[CV](https://spiral-antique-cbb.notion.site/Youssef-Ahmed-2c65b83c13e140538b746f7fb5a7c5aa)
+[CV]([https://spiral-antique-cbb.notion.site/Youssef-Ahmed-2c65b83c13e140538b746f7fb5a7c5aa](https://spiral-antique-cbb.notion.site/Youssef-Ahmed-94c07fd25f3c482fae544056d1e0251b?pvs=4)https://spiral-antique-cbb.notion.site/Youssef-Ahmed-94c07fd25f3c482fae544056d1e0251b?pvs=4)
 
-> ###### made with ❤️ by abdelrahman ahmed.
